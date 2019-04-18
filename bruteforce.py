@@ -44,4 +44,13 @@ print(translated_message)
 
 
 
-#Source: https://stackoverflow.com/questions/36150132/caesar-cipher-with-a-keyword-python
+
+'''
+Code Source:
+Bibliography:
+Thisisnotaname, 2016, Caesar Cipher with a Keyword -Python [closed],
+Mar 22nd 2016, StackOverflow [online]
+[Accessed 25 February 2019],
+Available from: https://stackoverflow.com/questions/36150132/caesar-cipher-with-a-keyword-python
+
+'''
